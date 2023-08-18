@@ -20,6 +20,6 @@ Previously used to create APIs and use them on the Frontend, and create responsi
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h3>Currently learning</h3>
+<h3>Next</h3>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
